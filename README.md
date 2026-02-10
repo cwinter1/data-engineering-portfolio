@@ -1,6 +1,3 @@
-# data-engineering-portfolio
-Senior Data Engineer portfolio showcasing enterprise analytics infrastructure projects
-
 # Chris Winter - Data Engineering Portfolio
 
 **Senior Data Engineer | Analytics Infrastructure & SSOT Architecture**
